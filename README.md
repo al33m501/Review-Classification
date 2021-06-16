@@ -1,4 +1,4 @@
-# Review_Classification
+# Review Classification
 Работа доступна в Jupyter Notebook: **ML_Project.ipynb**
 
 ## Постановка задачи
